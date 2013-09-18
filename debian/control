@@ -1,0 +1,12 @@
+Source: ros-hydro-serial-utils
+Section: misc
+Priority: extra
+Maintainer: William Woodall <wjwwood@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), libboost-all-dev, ros-hydro-catkin, ros-hydro-serial
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-serial-utils
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-hydro-serial
+Description: A package which adds useful additions to the serial package.
