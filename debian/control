@@ -1,0 +1,12 @@
+Source: ros-indigo-serial-utils
+Section: misc
+Priority: extra
+Maintainer: William Woodall <wjwwood@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, ros-indigo-catkin, ros-indigo-serial
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-serial-utils
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-indigo-serial
+Description: A package which adds useful additions to the serial package.
