@@ -1,3 +1,26 @@
+## serial_utils (kinetic) - 0.1.0-0
+
+The packages in the `serial_utils` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -r kinetic -t kinetic serial_utils` on `Sat, 13 Jan 2018 19:44:52 -0000`
+
+The `serial_utils` package was released.
+
+Version of package(s) in repository `serial_utils`:
+
+- upstream repository: https://github.com/wjwwood/serial_utils.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.4`
+- vcstools version: `0.1.40`
+
+
 ## serial_utils (indigo) - 0.1.0-0
 
 The packages in the `serial_utils` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -t indigo -r indigo serial_utils -n` on `Tue, 15 Jul 2014 19:59:45 -0000`
